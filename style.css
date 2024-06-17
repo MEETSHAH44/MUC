@@ -355,8 +355,8 @@
   }
   
   .section-hero img {
-    width: auto%;
-    height: auto;
+    width: 150%;
+    height: 150%;
     transform: scaleX(-1);
   }
   
